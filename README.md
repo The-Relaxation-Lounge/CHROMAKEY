@@ -43,7 +43,7 @@ Joseph C. Richardson
 
 https://youtu.be/LeoB6RuExws?si=alUg-GFWgpZRT2a3
 
-Save these images as any name you like. Simply right click and choose 'Save as' in the dropdown minue
+Save these images as any name you like. Simply right click and choose 'Save as' in the dropdown menu.
 
 ![Club Green Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/839ff5d9-0611-4d26-8034-c8a10e5b814a)
 
