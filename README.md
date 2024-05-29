@@ -84,3 +84,8 @@ Save these images as any name you like. Simply right click and choose 'Save imag
 ![Star Green Red Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/7e1fa642-db59-4f30-a5c4-5fa83dbc8148)
 
 ![Pentagram Green Red Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/4dd4bad7-d0dd-4502-98d6-480eeb17f8c7)
+
+![Star Solid Green Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/5007957b-b68d-44af-a130-9b98249fcd85)
+
+![Star Green Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/c74cd62c-b751-4264-b50f-851693617760)
+
