@@ -60,3 +60,13 @@ Save these images as any name you like. Simply right click and choose 'Save imag
 ![Lights Green Red Blue Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/4ae12bb3-8bd8-4911-bf92-9c6b93010ecf)
 
 ![Hexagons Green Blue Red Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/cb903394-dcd8-40bd-b589-8dd16c5b6e81)
+
+![Alien Beings Gree Blue Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/6f75aa1f-7ae3-4d29-85cd-84afc40af85a)
+
+![Alien Heads Green Red Blue Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/f69e1af0-afeb-43cc-b3e3-0f1e97ca76cc)
+
+![Alien Head Green Red Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/2cde884c-c8b2-4a3e-a86f-fe2f8e7562d4)
+
+![Teardrop Alien Head Green Red Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/b29e1125-1095-43de-87d7-4592339306a9)
+
+![Nuke Symbol Green Red Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/34065da2-dfba-4612-8df1-8ab0b21357a0)
