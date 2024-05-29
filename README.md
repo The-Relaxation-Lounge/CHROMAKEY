@@ -70,3 +70,5 @@ Save these images as any name you like. Simply right click and choose 'Save imag
 ![Teardrop Alien Head Green Red Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/b29e1125-1095-43de-87d7-4592339306a9)
 
 ![Nuke Symbol Green Red Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/34065da2-dfba-4612-8df1-8ab0b21357a0)
+
+![Yen Yan Green Red Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/89571ea3-31d2-4c2c-aa50-5943a10c0520)
