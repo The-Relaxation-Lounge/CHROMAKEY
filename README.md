@@ -67,7 +67,11 @@ Save these images as any name you like. Simply right click and choose 'Save imag
 
 ![Alien Heads Green Red Blue Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/f69e1af0-afeb-43cc-b3e3-0f1e97ca76cc)
 
+![Alien Head Green Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/35afbdcf-6369-422d-9862-0f4597306b96)
+
 ![Alien Head Green Red Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/2cde884c-c8b2-4a3e-a86f-fe2f8e7562d4)
+
+![Teardrop Alien Head Green Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/f3807bc6-0823-4ba9-8045-8794f4c2b907)
 
 ![Teardrop Alien Head Green Red Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/b29e1125-1095-43de-87d7-4592339306a9)
 
