@@ -71,6 +71,8 @@ Save these images as any name you like. Simply right click and choose 'Save imag
 
 ![Nuke Symbol Green Red Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/34065da2-dfba-4612-8df1-8ab0b21357a0)
 
+![Yen Yan Green Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/ed87ac00-9ebb-4071-990f-1afc681d5e68)
+
 ![Yen Yan Green Red Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/89571ea3-31d2-4c2c-aa50-5943a10c0520)
 
 ![Atom Green Red Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/e8292bc8-655b-4d21-8c0c-7ebfca59756f)
@@ -92,3 +94,5 @@ Save these images as any name you like. Simply right click and choose 'Save imag
 ![Pentagram Green Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/2712311f-c3d7-4ec6-9c09-1080f2d586d5)
 
 ![Skull Green Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/b68a3a78-808f-4207-b011-d24f0656773f)
+
+![Mogie Green Chronakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/ee1bf3b4-62ab-43a3-b1fd-71209f2f18a4)
