@@ -56,3 +56,6 @@ Save these images as any name you like. Simply right click and choose 'Save imag
 ![Antique 1](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/c1e4f6a4-3d3d-4bec-ab01-64374dc9ae0e)
 
 ![Antigue 2](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/feb8b90e-6264-4b90-aca7-45b08724961d)
+
+![Lights Green Red Blue Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/4ae12bb3-8bd8-4911-bf92-9c6b93010ecf)
+
