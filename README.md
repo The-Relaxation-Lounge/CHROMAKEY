@@ -108,3 +108,23 @@ Save these images as any name you like. Simply right click and choose 'Save imag
 ![Skull Green Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/b68a3a78-808f-4207-b011-d24f0656773f)
 
 ![Mogie Green Chronakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/ee1bf3b4-62ab-43a3-b1fd-71209f2f18a4)
+
+Here are some plain Virtual Chromakey backgrounds you can use. The cyan, pink and yellow Virtual Chromakey backgounds work
+with black and white videos. Do not use coloured videos in these three. The colours are too close to all the primal ones,
+such as Red, Green and Blue Virtual Chromakey backgrounds.
+
+![Pure White Canvas](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/f3e93fdf-8be8-4e87-af51-12fad7ec539a)
+
+![Pure Black Canvas](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/79dc7bb7-1194-4500-b4bf-bce68e3a103f)
+
+![Electric Red Canvas](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/4f9c32af-5628-4493-9713-b2c8f9cacb99)
+
+![Electric Green Canvas](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/089fb177-af2c-4ad6-858e-2d58fac1e9cb)
+
+![Electric Blue Canvas](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/8edb166c-4e84-40ba-802c-e54a51a9e596)
+
+![Electric Cyan Canvas](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/73d46c5e-3429-4b95-81be-c84ab29f8399)
+
+![Electric Pink Canvas](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/0941994b-8bad-4f54-adb2-049a0771f0c7)
+
+![Electric Yellow Canvas](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/3f5f4ba0-1679-4fdf-99c1-ce1be6e5d1db)
