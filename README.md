@@ -45,6 +45,10 @@ https://youtu.be/LeoB6RuExws?si=alUg-GFWgpZRT2a3
 
 Save these images as any name you like. Simply right click and choose 'Save image as...' in the dropdown menu.
 
+![Chroma Keyer Lessons P2](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/d7d31d0a-b6a0-4fa3-bebb-0e0ffff7c5f8)
+
+![Chroma Keyer Lessons P1](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/d61eeedc-1eec-4037-9878-6f85e13c0d8a)
+
 ![Club Green Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/839ff5d9-0611-4d26-8034-c8a10e5b814a)
 
 ![Diamond-Green-Chromakey](https://github.com/The-Relaxation-Lounge/Virtual-Chromakey/assets/34896540/aa91ae70-b8ca-46a1-b65a-9d5e0eb53a0d)
